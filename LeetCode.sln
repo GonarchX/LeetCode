@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{EC5CDCD6-66FF-4B57-B872-E64EA3AF9FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5CDCD6-66FF-4B57-B872-E64EA3AF9FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5CDCD6-66FF-4B57-B872-E64EA3AF9FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5CDCD6-66FF-4B57-B872-E64EA3AF9FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5CDCD6-66FF-4B57-B872-E64EA3AF9FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
