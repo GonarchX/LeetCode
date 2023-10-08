@@ -2,7 +2,7 @@ namespace LeetCode.Medium;
 
 // 49. Group Anagrams
 // https://leetcode.com/problems/group-anagrams/
-public class GroupAnagrams
+public class P49
 {
     public class Solution
     {

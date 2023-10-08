@@ -2,7 +2,7 @@ namespace LeetCode.Medium;
 
 // 1493. Longest Subarray of 1's After Deleting One Element
 // https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
-public class LongestSubarrayOf1SAfterDeletingOneElement
+public class P1493
 {
     public class Solution {
         // Алгоритм следующий:

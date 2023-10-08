@@ -2,7 +2,7 @@ namespace LeetCode.Medium;
 
 // 849. Maximize Distance to Closest Person
 // https://leetcode.com/problems/maximize-distance-to-closest-person/
-public class MaximizeDistanceToClosestPerson
+public class P849
 {
     public class Solution
     {
