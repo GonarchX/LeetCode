@@ -36,7 +36,7 @@ public class MaximizeDistanceToClosestPerson
                     firstPersonSeat = firstPersonSeat == -1 ? curSeat : firstPersonSeat;
                     // Максимальное расстояние до ближайшего соседа считаем как половина от расстояния между занятыми местами 
                     maxDist = Math.Max(maxDist, (curSeat - lastOccSeat) / 2);
-                    // Указываем правую границу диапазона, где было занятое место как последнее занятое место (логично)
+                    // Указываем правую границу диапазона, где было занятое место как последнее занятое место в нашем диапазоне (логично)
                     lastOccSeat = curSeat;
                 }
             }
